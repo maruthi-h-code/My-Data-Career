@@ -1,0 +1,42 @@
+#variables in python [casting & case-sensivity]
+
+x = 4
+y = 3
+print(x+y)
+
+a = 25
+A = 25
+print(a)
+
+x = 3    #int
+y = '3'  #string
+z = 3.0  #float
+print(x+z)
+
+x = 3
+y = int ('3')
+z = 3.0
+print(x+y)
+
+x = 3
+y = float ('3')
+z = int (3.0)
+print(type(x))
+print(type(y))
+print(type(z))
+
+name = 'maruthi'
+name1 = "maruthi"
+print(name)
+print(name1)
+
+name = 'maruthi'
+name1 =  '''spandana'''
+print(name)
+print(name1)
+
+
+
+
+
+
