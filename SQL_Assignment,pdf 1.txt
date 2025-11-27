@@ -1,0 +1,39 @@
+SQL ASSIGNMENT
+
+1. What is Data?
+Data means raw facts or figures collected from different sources.
+Example: Name, Age, Mobile Number, Marks, Salary etc.
+Data has no meaning until it is processed.
+
+2. What is Database Management System (DBMS)?
+DBMS is a software used to store, manage and retrieve data from a database.
+It helps to organize data in a structured way.
+Examples: MySQL, Oracle, SQL Server, PostgreSQL
+Functions of DBMS: Data Storage, Data Security, Data Update, Backup & Recovery
+
+3. What is MySQL?
+MySQL is a popular and open-source Database Management System.
+It uses SQL (Structured Query Language) to manage data.
+Used in websites, banking systems, online shopping apps etc.
+
+4. Creation of Database in MySQL
+Command to create database:
+CREATE DATABASE database_name;
+To use the database:
+USE database_name;
+Example:
+CREATE DATABASE StudentDB;
+USE StudentDB;
+
+5. What is MySQL Workbench?
+MySQL Workbench is a GUI tool for MySQL.
+It allows easy query execution, viewing data, creating tables, and designing ER diagrams.
+Best for beginners as it is graphical.
+
+6. MySQL Installation Steps
+1) Download MySQL Installer from official website
+2) Select Server + Workbench while installing
+3) Set Username and Password
+4) Complete installation
+5) Open Workbench and connect to server
+"""      
